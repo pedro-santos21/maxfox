@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+.cache/
+
+# Build files
+dist/
+build/
+
+# Compiled files
+*.log
+*.tmp
+*.bak
+*.map
+
+# OS-generated files
+ehthumbs.db
+Icon?
+
+# Compiled Python files
+*.pyc
+
+# Logs
+*.log
+
+# Output of 'npm run build'
+/build/
+
+# Output of 'npm run test'
+/coverage/
+
+# Output of 'yarn test'
+/yarn-error.log
+
+# Output of 'yarn build'
+/.pnp/
+.pnp.js
